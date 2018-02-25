@@ -8,3 +8,7 @@
   flex: 0 1 auto;
   
 }
+
+a:active {
+  background-color: white;
+}
