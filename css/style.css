@@ -1,0 +1,10 @@
+.flexbox-footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.flexbox-footer-item {
+  flex: 0 1 auto;
+  
+}
