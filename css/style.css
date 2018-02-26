@@ -45,3 +45,57 @@
   background: #dd4b39;
   color: white;
 }
+
+
+/* xs */
+@media (min-width: 320px) {
+  .fa {  padding-top: 10px;
+    padding-left: 10px;
+    font-size: 15px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    color: white;
+    margin: 5px; 
+  
+  }
+}
+
+
+/* s */
+@media (min-width: 576px) {
+  .fa {  padding: 20px;
+    font-size: 15px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    color: white;
+    margin: 10px;
+  
+  }
+}
+
+/* m */
+@media (min-width: 768px) {
+  .fa {
+    padding: 20px;
+    font-size: 20px;
+    width: 70px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    color: white;
+    
+  }
+ 
+}
+
+ body {
+    background-image: url(../images/interior2_1900x1238.png);
+    background-repeat: no-repeat;
+   background-position: center center;
+   background-size: cover;
+   
+  }

@@ -79,3 +79,31 @@ body {
   background: #dd4b39;
   color: white;
 }
+
+/* s */
+@media (min-width: 576px) {
+  .fa {  padding: 20px;
+    font-size: 15px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    color: white;
+    margin: 10px;
+  
+  }
+}
+
+/* s */
+@media (min-width: 576px) {
+  .fa {  padding: 20px;
+    font-size: 15px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    color: white;
+    margin: 10px;
+  
+  }
+}
