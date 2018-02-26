@@ -89,6 +89,12 @@
     color: white;
     
   }
- 
 }
 
+body {
+background-image: url(../images/NewPizzaBackground.jpg);
+   min-height: 400px;
+   background-repeat: no-repeat;
+   background-position: center center;
+   background-size: cover;
+)
